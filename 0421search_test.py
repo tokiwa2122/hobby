@@ -310,7 +310,7 @@ if st.session_state.get("show_form"):
             st.session_state["matched_hobbies"] = [TOP1, TOP2, TOP3]
             st.session_state["show_result"] = True
 
-         import streamlit as st
+         # import streamlit as st
          # import openai
          # import os
          # from dotenv import load_dotenv
